@@ -1,2 +1,71 @@
 # PSBSigma
 Stability Indicator for Grip Motion in the Arm
+SIGMA is a biomedical instrumentation project focused on developing a portable hand tremor measurement device to evaluate hand movement stability during weightlifting activities.
+
+Project Overview
+
+SIGMA is developed using an MPU6050 Inertial Measurement Unit (IMU) sensor integrated with an ESP32 microcontroller. The system is designed to acquire hand movement data and evaluate vibration characteristics through signal processing.
+
+The device is intended to provide quantitative measurements as an alternative to subjective visual observation during physical training.
+
+Objectives
+
+Develop a portable hand tremor measurement instrument.
+
+Acquire acceleration and angular velocity data using the MPU6050 sensor.
+
+Evaluate hand movement stability through signal analysis.
+
+Develop a warning indicator using LED and/or buzzer output.
+
+Hardware Components
+
+Component
+
+Function
+
+MPU6050
+
+Motion and acceleration sensing
+
+ESP32
+
+Data acquisition and processing
+
+Breadboard
+
+Electronic prototyping
+
+Jumper Wires
+
+Electrical connections
+
+USB Cable
+
+Power and data communication
+
+PVC Enclosure
+
+Device housing and protection
+
+Foam and Adhesive
+
+Internal component support
+
+System Architecture
+
+MPU6050 → ESP32 → Data Acquisition → Signal Processing → Stability Evaluation → LED/Buzzer Indicator
+
+Note: Signal processing and evaluation stages are subject to implementation verification.
+
+Development Status
+
+Hardware assembly and enclosure: Completed.
+
+Initial sensor data acquisition: Available.
+
+LED/Buzzer functionality: Operational; measurement-trigger integration is being verified.
+
+Signal filtering and RMS implementation: Under verification.
+
+Performance testing and data analysis: In progress.
