@@ -1,4 +1,4 @@
-# PSBSigma
+# Sigma
 Stability Indicator for Grip Motion in the Arm
 SIGMA is a biomedical instrumentation project focused on developing a portable hand tremor measurement device to evaluate hand movement stability during weightlifting activities.
 
