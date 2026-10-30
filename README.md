@@ -40,3 +40,10 @@ Internal component support
 
 
 Performance testing and data analysis: In progress.
+
+Institution
+Biomedical Engineering Study Program
+Institut Teknologi Sumatera (ITERA)
+
+Project Documentation
+This repository contains the technical documentation, hardware implementation, firmware, experimental data, and development records of the SIGMA project.
