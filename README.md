@@ -29,7 +29,7 @@ Electronic prototyping
 - Jumper Wires
 Electrical connections
 
--USB Cable
+- USB Cable
 Power and data communication
 
 - PVC Enclosure
